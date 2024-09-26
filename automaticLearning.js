@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         云学堂全自动刷视频-测试 yunxuetang.cn
 // @namespace    https://github.com/michaelauto/yunxuetang
-// @version      0.16.8
+// @version      1.0beta
 // @description  云学堂视频播放 文档浏览 自动筛选学习未学习的视频 自动提交考试
-// @author       zhou__jianlei
+// @author       michaelauto
 // @license      MIT
 // @icon         https://picobd.yxt.com/orgs/yxt_malladmin/mvcpic/image/201811/71672740d9524c53ac3d60b6a4123bca.png
 // @match        http*://*.yunxuetang.cn/plan/*.html
