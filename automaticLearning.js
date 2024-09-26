@@ -21,7 +21,6 @@
 // @match        http*://*.yunxuetang.cn/kng/knowledgecatalogsearch.htm*
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
-// @require      https://cdn.bootcdn.net/ajax/libs/blueimp-md5/2.18.0/js/md5.min.js
 // ==/UserScript==
 
 (function () {
